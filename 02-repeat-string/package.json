@@ -1,0 +1,12 @@
+{
+  "name": "odinproject-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repeatString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
